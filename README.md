@@ -1,3 +1,3 @@
 # hello-world
 first repository
-my name is harshwardhan
+and my name is harshwardhan
